@@ -7,7 +7,7 @@ Using Jeff Sackmann’s open ATP dataset, it explores how the importance of serv
 
 ---
 
-## 📊 Overview
+## Overview
 - Collected and cleaned ATP data (2000–2024) from Jeff Sackmann’s public repository  
 - Focused on standard surfaces: Hard, Clay, Grass  
 - Built key performance indicators: 1stServe%, 1stWon%, 2ndWon%, ServicePointsWon%, ReturnPointsWon%  
@@ -16,12 +16,19 @@ Using Jeff Sackmann’s open ATP dataset, it explores how the importance of serv
 
 ---
 
-## ⚙️ Tech Stack
+## 📊 Key Findings
+- Serve-related metrics (1stServe%, 1stWon%, ServicePointsWon%) remain dominant across all surfaces.  
+- Return performance shows slight decline in importance over time.  
+- Despite surface slowdowns, overall playing styles have converged due to increased player power and athleticism.
+
+---
+
+## Tech Stack
 Python · pandas · numpy · matplotlib · seaborn · scikit-learn
 
 ---
 
-## 🚀 How to Run
+## How to Run
 You can open and run the notebook directly in **Google Colab**.  
 If you want to run it locally:  
 1. Clone this repository: git clone https://github.com/<your-username>/tennis-surface-evolution.git  
@@ -31,7 +38,7 @@ If you want to run it locally:
 
 ---
 
-## ⚠️ Note on Data Download
+## Note on Data Download
 Some systems (especially Windows) may not have `wget` installed.  
 If so, download the CSVs manually or use this Python alternative:  
 `import urllib.request`  
@@ -39,7 +46,7 @@ If so, download the CSVs manually or use this Python alternative:
 
 ---
 
-## 📬 Contact
+## Contact
 **Author:** Gabriele Giugliarelli  
 **GitHub:** [@your-username](https://github.com/your-username)
 
