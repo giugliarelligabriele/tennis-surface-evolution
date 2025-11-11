@@ -33,7 +33,6 @@ You can open and run the notebook directly in **Google Colab**.
 
 ---
 
-## Contacts
-**Author:** Gabriele Giugliarelli  
+## Contact
 **GitHub:** [@giugliarelligabriele](https://github.com/giugliarelligabriele)
 **LinkedIn:** [Gabriele Giugliarelli](https://www.linkedin.com/in/gabriele-giugliarelli)
