@@ -16,7 +16,7 @@ Using Jeff Sackmann’s open ATP dataset, it explores how the importance of serv
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 - Serve-related metrics (1stServe%, 1stWon%, ServicePointsWon%) remain dominant across all surfaces.  
 - Return performance shows slight decline in importance over time.  
 - Despite surface slowdowns, overall playing styles have converged due to increased player power and athleticism.
@@ -30,23 +30,10 @@ Python · pandas · numpy · matplotlib · seaborn · scikit-learn
 
 ## How to Run
 You can open and run the notebook directly in **Google Colab**.  
-If you want to run it locally:  
-1. Clone this repository: git clone https://github.com/<your-username>/tennis-surface-evolution.git  
-2. (Optional) Install dependencies: pip install -r requirements.txt  
-3. Download ATP match data from Jeff Sackmann’s tennis_atp repository and place the CSV files inside `data/raw/`.  
-4. Open the notebook `notebooks/tennis_surface_evolution.ipynb` and run all cells.
 
 ---
 
-## Note on Data Download
-Some systems (especially Windows) may not have `wget` installed.  
-If so, download the CSVs manually or use this Python alternative:  
-`import urllib.request`  
-`urllib.request.urlretrieve(url, "data/raw/atp_matches_2024.csv")`
-
----
-
-## Contact
+## Contacts
 **Author:** Gabriele Giugliarelli  
-**GitHub:** [@your-username](https://github.com/your-username)
-
+**GitHub:** [@giugliarelligabriele](https://github.com/giugliarelligabriele)
+**LinkedIn:** [Gabriele Giugliarelli](https://www.linkedin.com/in/gabriele-giugliarelli)
